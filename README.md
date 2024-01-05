@@ -1,3 +1,14 @@
+## Como utilizar o projeto?
+Obs: O projeto não está estilizado , apesar de estar configurado o tailwind css . Portanto estilize da maneira que quiser para testar os funcionamentos dos hooks
+
+Para vc ver a eficácia dos hooks do react eu recomendo baixar e extensão react dev tools em seu navegador , após a instalação utilize a extensão e veja a performance da renderização do react com os hooks e sem os hooks. 
+
+Obs:
+-Caso não conheca cada hook eu recomendo a leitura no site do react :https://pt-br.legacy.reactjs.org/docs/hooks-intro.html 
+
+-Caso não saiba utilizar a ferramenta react dev tools busque saber utilizar-la , para um melhor aproveitamento do projeto
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
